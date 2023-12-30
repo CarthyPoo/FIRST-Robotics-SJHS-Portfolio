@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-: black;
+    padding: 10px;
+}
+
+.text {
+    color:black;
+}
+.logo {
+    float: left;
+    margin-right: 15px;
+    width: 100px;
+    height: 150px;
+}
+
+.highlight {
+    color: #a52827;
+}
+
+main {
+    margin: 15px;
+}
+
+h3 {
+    color: #a52827;
+}
+
+footer {
+    background-color: #a52827;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
