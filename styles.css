@@ -7,16 +7,25 @@ header {
     color: white;
     text-align: center;
     padding: 10px;
+    
+
 }
 
 .text {
     color:black;
+
 }
 .logo {
     float: left;
     margin-right: 15px;
     width: 100px;
     height: 150px;
+}
+
+.team {
+    width: 35%;
+    margin: 15px;
+    display: flex;
 }
 
 .highlight {
@@ -35,8 +44,9 @@ footer {
     background-color: #a52827;
     color: white;
     text-align: center;
-    padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
+    left: 0px;
+    right: 0px;
 }
